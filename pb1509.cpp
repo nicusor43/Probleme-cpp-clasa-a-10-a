@@ -24,6 +24,7 @@ int nrmaxim(int n) {
 
 int main(){
 
-   cout<<nrmaxim(123423);
+    int n; cin >> n;
+    cout<<nrmaxim(n);
 
 }
